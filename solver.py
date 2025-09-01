@@ -1,4 +1,3 @@
-# solver.py
 
 def solve(bo):
     find = find_empty(bo)
